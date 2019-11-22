@@ -8,7 +8,7 @@
  * 1) Purpose:
  *
  * This is avr-gcc library for LCD displays based on Sitronix ST7032
- * controller.
+ * controler.
  *
  * It was tested with RAYSTAR OPTRONICS RX1602A4-BIW-TS and Atmel ATMEGA 328.
  *
