@@ -1,5 +1,7 @@
 # lcd_st7032
+
 LCD ST7032 library for avr-gcc.
+
 (c) 2019 Bartosz Chodorowski http://chodorowski.pro
 
 ## 1) Purpose:
